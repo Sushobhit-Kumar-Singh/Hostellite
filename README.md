@@ -12,24 +12,22 @@ A hostel management app using flutter where the complains of students and their 
 [![Watchers](	https://img.shields.io/github/watchers/hackslash-nitp/Hostelite?label=Watch&style=for-the-badge)](https://github.com/Sushobhit-Kumar-Singh/Hostellite/) 
 
 ## Screenshots of App
- ### Home page
-![alt text](https://i.ibb.co/562MTcd/hostelite-7.jpg)
+ 
+![alt text](https://i.ibb.co/wQp2Zmq/hostelite-7.jpg)
+![alt text](https://i.ibb.co/7Gcrpb5/hostelite-6.jpg)
+![alt text](https://i.ibb.co/WsHLRh6/hostelite-5.jpg)
+![alt text](https://i.ibb.co/BnYHthQ/hostelite-4.jpg)
+![alt text](https://i.ibb.co/rdrHPzr/hostelite-1.jpg)
+![alt text](https://i.ibb.co/zxKkbBD/hostelite-3.jpg)
+![alt text](https://i.ibb.co/kS699cc/hostelite-2.jpg)
 
-### Mark Entry Page
-![alt text](https://i.ibb.co/Y04QgCY/hostelite-6.jpg)
 
-### Mark Exit Page
-![alt text](https://i.ibb.co/vLw0T86/hostelite-5.jpg)
 
-### Complaint Status Page
-![alt text](https://i.ibb.co/wzrKbFv/hostelite-4.jpg)
-![alt text](https://i.ibb.co/gZG3GMz/hostelite-1.jpg)
 
-### Entry/Exit Records
-![alt text](https://i.ibb.co/0cy4sGJ/hostelite-3.jpg)
 
-### SideBar Navigator
-![alt text](https://i.ibb.co/yphVxLf/hostelite-2.jpg)
+
+
+
 
 
 
