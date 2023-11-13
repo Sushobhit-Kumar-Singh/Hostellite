@@ -11,7 +11,28 @@ A hostel management app using flutter where the complains of students and their 
 [![Issues](https://img.shields.io/github/issues/hackslash-nitp/Hostelite?style=for-the-badge&label=Issues)](https://github.com/Sushobhit-Kumar-Singh/Hostellite)
 [![Watchers](	https://img.shields.io/github/watchers/hackslash-nitp/Hostelite?label=Watch&style=for-the-badge)](https://github.com/Sushobhit-Kumar-Singh/Hostellite/) 
 
-### Screenshots of App
+## Screenshots of App
+ ### Home page
+![alt text](https://i.ibb.co/562MTcd/hostelite-7.jpg)
 
-<img src="https://github.com/Sushobhit-Kumar-Singh/Hostellite/blob/main/Screenshots/StudentHomeScreen.jpeg" alt="android" width="220" height="500"/>
-Student Home Screen
+### Mark Entry Page
+![alt text](https://i.ibb.co/Y04QgCY/hostelite-6.jpg)
+
+### Mark Exit Page
+![alt text](https://i.ibb.co/vLw0T86/hostelite-5.jpg)
+
+### Complaint Status Page
+![alt text](https://i.ibb.co/wzrKbFv/hostelite-4.jpg)
+![alt text](https://i.ibb.co/gZG3GMz/hostelite-1.jpg)
+
+### Entry/Exit Records
+![alt text](https://i.ibb.co/0cy4sGJ/hostelite-3.jpg)
+
+### SideBar Navigator
+![alt text](https://i.ibb.co/yphVxLf/hostelite-2.jpg)
+
+
+
+
+
+
