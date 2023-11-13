@@ -19,7 +19,6 @@ A hostel management app using flutter where the complains of students and their 
 ![alt text](https://i.ibb.co/BnYHthQ/hostelite-4.jpg)
 ![alt text](https://i.ibb.co/rdrHPzr/hostelite-1.jpg)
 ![alt text](https://i.ibb.co/zxKkbBD/hostelite-3.jpg)
-![alt text](https://i.ibb.co/kS699cc/hostelite-2.jpg)
 
 
 
